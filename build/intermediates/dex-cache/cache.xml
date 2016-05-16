@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/danliu/AndroidStudioProjects/Dan&apos;s Calculator/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/danliu/AndroidStudioProjects/Dan&apos;s Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_10d7fd4d9df84982167ca8dccfff2656f0d9d94d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danliu/AndroidStudioProjects/Dan&apos;s Calculator/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/danliu/AndroidStudioProjects/Dan&apos;s Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_9e7eda9f237f8cb72de3894adfad4dff8f4b4cf4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danliu/AndroidStudioProjects/Dan&apos;s Calculator/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/danliu/AndroidStudioProjects/Dan&apos;s Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_9bcd1b88e1591d9f1c78eee9b2d9cd0600a23c86/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danliu/AndroidStudioProjects/Dan&apos;s Calculator/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/danliu/AndroidStudioProjects/Dan&apos;s Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_dd1f730a4307e68dc8ec2e193a0389c2b63b3dcb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danliu/AndroidStudioProjects/Dan&apos;s Calculator/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="65ec5fdfb048b0e5714c4549950bf305ac539eda">
+        <dex dex="/Users/danliu/AndroidStudioProjects/Dan&apos;s Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e2cfa66851abb88798864a800e04d29a71b05841/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danliu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/danliu/AndroidStudioProjects/Dan&apos;s Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_7eb517f6ffba13bb6b8bda996117927f9ea01939/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danliu/AndroidStudioProjects/Dan&apos;s Calculator/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bbfa73e17ef793f4f548a76fb497829c06457766">
+        <dex dex="/Users/danliu/AndroidStudioProjects/Dan&apos;s Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6aa6978342aa74746186d47a78f18e1de94b944c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danliu/AndroidStudioProjects/Dan&apos;s Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/danliu/AndroidStudioProjects/Dan&apos;s Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_ce29347b1d6b6c0f4e833f186dceb893c7341705/classes.dex" />
+    </item>
+
+</items>
